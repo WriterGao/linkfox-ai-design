@@ -1,0 +1,39 @@
+# Maven
+backend/target/
+backend/.mvn/
+backend/mvnw
+backend/mvnw.cmd
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# Logs
+*.log
+backend/nohup.out
+backend/backend.log
+frontend/nohup.out
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker volumes
+docker/mysql/data/
+
+# Temp files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Test files
+backend/src/test/
