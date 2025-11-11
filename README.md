@@ -23,8 +23,10 @@ LinkFox AI设计平台是一个功能强大的AI驱动的图像生成和电商�
 ## 📸 项目预览
 
 ### 首页 - 功能展示
-![首页](./screenshots/home.png)
+![首页](./docs/图片.png)
 *六大AI功能模块、上传区域、优秀案例展示*
+
+LinkFox AI设计平台提供智能修图、场景制变、商品图、AI穿衣、真人模特、批量生图等六大核心功能。
 
 ### 用户中心
 ![用户中心](./screenshots/profile.png)
